@@ -1,0 +1,3 @@
+This repository documents a local interoperability workaround.
+
+No upstream vLLM, DeepSeek, NVIDIA, or third-party source code is redistributed here beyond a minimal contextual diff necessary to describe the local change. Product and project names belong to their respective owners.
